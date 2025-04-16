@@ -1,16 +1,25 @@
-<<<<<<< HEAD
-# React + Vite
+# 🎮 Tic Tac Toe Game - React JS
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and interactive Tic Tac Toe game built using **React JS**. Play against a friend and enjoy the classic Xs and Os on your browser!
 
-Currently, two official plugins are available:
+## 🛠️ Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- 🧠 Two-player mode (local)
+- ✅ Win/draw detection
+- 🔄 Game reset functionality
+- ⚛️ Built with React functional components and hooks
+- 💅 Clean, responsive UI
 
-## Expanding the ESLint configuration
+## 📸 Screenshots
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# tic-tac-toe
->>>>>>> b2303e61d53bea366531026af1d56069fba896fa
+![Game Screenshot](./screenshot.png)
+
+## 🚀 Getting Started
+
+These instructions will help you set up the project on your local machine.
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/your-username/tic-tac-toe.git
+cd tic-tac-toe
